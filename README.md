@@ -23,6 +23,8 @@ cd codegarage-task
 npm install
 ```
 
+---
+
 ### 📦 Run the App
 
 ```bash
